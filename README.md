@@ -1,4 +1,4 @@
-### I specialize in Frontend web development and love expressing myself creatively through unique projects
+### Full Stack Developer leveraging my skills to bring creative ideas to life
 
 <p align="center">
   <a href="https://skillicons.dev">

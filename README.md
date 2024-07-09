@@ -1,5 +1,5 @@
 <div align="center">
-<h4>Full Stack Developer leveraging my skills to bring creative ideas to life</h4>
+<h3>Full Stack Developer leveraging my skills to bring creative ideas to life</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
